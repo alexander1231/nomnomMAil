@@ -1,0 +1,78 @@
+uuid: ALEXANDERCASIAS
+alias: Hello World Sample
+description: Demonstrates basic app structure and functionality.
+nnd_model_version: 2
+categories:
+- name: general
+type: engine
+parameter_categories: []
+actions:
+  hello_world:
+    display_name: Send by API
+    description: Prints a greeting multiple times in the Task execution log.
+    parameters:
+    - name: general_parameters
+      display_name: General Parameters
+      description: Parameters for Hello World
+      type: group
+      collapsed: false
+      parameters:
+      - name: repeat
+        display_name: Repeat
+        description: Specify how many times to print.
+        required: true
+        default: 1
+        type: int
+        shared_object_type_uuid: INT-SHAREDOBJECT
+      - name: name
+        display_name: Name
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+  hello_world2:
+    display_name: Send by IMAP
+    description: Prints a greeting multiple times in the Task execution log.
+    parameters:
+    - name: general_parameters_IMAP
+      display_name: General Parameters IMAP
+      description: Parameters for IMAP
+      type: group
+      collapsed: false
+      parameters:
+      - name: repeat
+        display_name: Repeat
+        description: Specify how many times to print.
+        required: true
+        default: 1
+        type: int
+        shared_object_type_uuid: INT-SHAREDOBJECT
+      - name: name
+        display_name: Name
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+  hello_world3:
+    display_name: Send by POP3
+    description: Prints a greeting multiple times in the Task execution log.
+    parameters:
+    - name: general_parameters_POP3
+      display_name: General Parameters POP3
+      description: Parameters for POP3
+      type: group
+      collapsed: false
+      parameters:
+      - name: repeat
+        display_name: Repeat
+        description: Specify how many times to print.
+        required: true
+        default: 1
+        type: int
+        shared_object_type_uuid: INT-SHAREDOBJECT
+      - name: name
+        display_name: Name
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
