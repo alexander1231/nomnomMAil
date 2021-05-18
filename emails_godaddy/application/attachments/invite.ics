@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210517T173000Z
+DTEND:20210517T183000Z
+DTSTAMP:20210513T200912Z
+ORGANIZER;CN=Juan Jarquin:mailto:juan.jarquin@airpak.com
+UID:0sbvpue58dj64uc7edb6cpvjpe@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=etorresllosa@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:etorre
+ sllosa@visageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mzamudio@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:mzamudio@v
+ isageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aconcha@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:aconcha@vis
+ ageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cparraguez@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:cparragu
+ ez@visageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dvargas@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:dvargas@vis
+ ageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=piero@cashpak.com;X-NUM-GUESTS=0:mailto:piero@cashpak.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hborreguero@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:hborreg
+ uero@visageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cortega@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:cortega@vis
+ ageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pbenavides@visageconsultinggroup.com;X-NUM-GUESTS=0:mailto:pbenavid
+ es@visageconsultinggroup.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Juan Jarquin;X-NUM-GUESTS=0:mailto:juan.jarquin@airpak.com
+X-MICROSOFT-CDO-OWNERAPPTID:1180568310
+CREATED:20210513T194613Z
+DESCRIPTION:<b><i>Estimado Piero Coen Dávila</i></b><br><br>Como sabes el p
+ asado lunes 03-Mayo-2021 se dio inicio formal a la asesoría de Transformaci
+ ón Digital por parte de Visage.<br><br>En esta ocasión se ha realizado agen
+ da\, previa coordinación contigo\, para que el día Lunes 17-05-2021 en hora
+ rio de las 11.30 am a 12.30MD\, tengas una sesión de entrevistas con el equ
+ ipo designado por parte de Visage.<br><br><b>La sesión sería por zoom\, en 
+ el siguiente enlace :&nbsp\;<a href="https://us02web.zoom.us/j/6741477039">
+ https://us02web.zoom.us/j/<u></u>6741477039</a>&nbsp\;&nbsp\;</b><br><br>El
+  equipo de Visage estará conformado por:<br><br><br>Mirtha Zamudio (<a href
+ ="mailto:mzamudio@visageconsultinggroup.com">mzamudio@<u></u>visageconsulti
+ nggroup.com</a>)<br>Carolina Parraguez (<a href="mailto:cparraguez@visageco
+ nsultinggroup.com">cparraguez@<u></u>visageconsultinggroup.com</a>)<br>Héct
+ or Borreguero (<a href="mailto:hborreguero@visageconsultinggroup.com">hborr
+ eguero@<u></u>visageconsultinggroup.com</a>)<br>Álvaro Concha (<a href="mai
+ lto:aconcha@visageconsultinggroup.com">aconcha@<u></u>visageconsultinggroup
+ .com</a>)<br>Pablo Benavides (<a href="mailto:pbenavides@visageconsultinggr
+ oup.com">pbenavides@<u></u>visageconsultinggroup.com</a>)<br>Claudio Ortega
+  (<a href="mailto:cortega@visageconsultinggroup.com">cortega@<u></u>visagec
+ onsultinggroup.com</a>)<br>Diego Vargas (<a href="mailto:dvargas@visagecons
+ ultinggroup.com">dvargas@<u></u>visageconsultinggroup.com</a>)<br>Eduardo T
+ orres Llosa (<a href="mailto:etorresllosa@visageconsultinggroup.com">etorre
+ sllosa@<u></u>visageconsultinggroup.com</a>)<br><br>Agradezco de antemano t
+ u puntualidad y participación es esta sesión.<br><br>Muchas gracias Piero<b
+ r><br><b><i>#SeParteDelCambio</i></b>&nbsp\;&nbsp\;\n\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edi
+ tes esta sección de la descripción.\n\nVisualice el evento en la URL https:
+ //calendar.google.com/calendar/event?action=VIEW&eid=MHNidnB1ZTU4ZGo2NHVjN2
+ VkYjZjcHZqcGUgYWNvbmNoYUB2aXNhZ2Vjb25zdWx0aW5nZ3JvdXAuY29t&tok=MjMjanVhbi5q
+ YXJxdWluQGFpcnBhay5jb203NTI0ZDFiYjVjZWIzMTk1NzAwZWUzNzhmYjI4ZGQ5Y2Q0YzY4YWJ
+ k&ctz=America%2FManagua&hl=es&es=0.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210513T200912Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Entrevista Visage - Asesoría Transformación Digital
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

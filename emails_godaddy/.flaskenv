@@ -1,0 +1,2 @@
+FLASK_APP=emails_godaddy.py
+FLASK_ENV=development
