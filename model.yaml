@@ -24,8 +24,20 @@ actions:
         default: 1
         type: int
         shared_object_type_uuid: INT-SHAREDOBJECT
-      - name: name
-        display_name: Name
+      - name: User
+        display_name: User
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Password
+        display_name: Password
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Url_Api
+        display_name: Url Api
         description: Specify a name to print instead of World.
         required: false
         type: string
@@ -47,8 +59,20 @@ actions:
         default: 1
         type: int
         shared_object_type_uuid: INT-SHAREDOBJECT
-      - name: name
-        display_name: Name
+      - name: User
+        display_name: User
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Password
+        display_name: Password
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Url
+        display_name: Url
         description: Specify a name to print instead of World.
         required: false
         type: string
@@ -70,8 +94,20 @@ actions:
         default: 1
         type: int
         shared_object_type_uuid: INT-SHAREDOBJECT
-      - name: name
-        display_name: Name
+      - name: User
+        display_name: User
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Password
+        display_name: Password
+        description: Specify a name to print instead of World.
+        required: false
+        type: string
+        shared_object_type_uuid: STRING-SHAREDOBJECT
+      - name: Url
+        display_name: Url
         description: Specify a name to print instead of World.
         required: false
         type: string
